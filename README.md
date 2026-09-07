@@ -61,7 +61,7 @@
         <!-- HERO SECTION -->
         <header class="relative h-screen flex items-center justify-center text-center text-white px-4">
             <div class="absolute inset-0 bg-black/50 z-10"></div>
-            <div class="absolute inset-0 bg-cover bg-center" style="background-image: url('https://janwarimj2018-cmd.github.io/hewan/DSC_2231(1).jpg');"></div>
+            <div class="absolute inset-0 bg-cover bg-center" style="background-image: url('https://janwarimj2018-cmd.github.io/hewan/DSC_2231.jpg');"></div>
             <div class="relative z-20 space-y-4 max-w-2xl mx-auto">
                 <p class="font-cinzel tracking-widest text-gold uppercase text-sm">The Wedding Of</p>
                 <h1 class="font-script text-6xl md:text-8xl text-gold">Janwar & Suci</h1>
