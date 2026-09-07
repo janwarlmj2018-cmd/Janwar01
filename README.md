@@ -38,7 +38,7 @@
 
     <!-- COVER / HALAMAN DEPAN -->
     <div id="cover-section" class="fixed inset-0 z-50 flex flex-col items-center justify-center bg-javaneseGreen text-white p-6 transition-all duration-700">
-        <div class="absolute inset-0 opacity-25 bg-cover bg-center" style="background-image: url('https://janwarimj2018-cmd.github.io/hewan/DSC_2231(1).jpg');"></div>
+        <div class="absolute inset-0 opacity-25 bg-cover bg-center" style="background-image: url('https://janwarimj2018-cmd.github.io/hewan/DSC_2231.jpg');"></div>
         <div class="relative z-10 text-center max-w-md mx-auto space-y-6">
             <p class="font-cinzel tracking-widest text-gold text-sm uppercase">Undangan Pernikahan</p>
             <h1 class="font-script text-6xl text-gold">Janwar & Suci</h1>
@@ -81,7 +81,7 @@
                 <!-- Pria -->
                 <div class="space-y-4 flex flex-col items-center">
                     <div class="w-64 h-80 rounded-2xl overflow-hidden shadow-xl border-4 border-gold">
-                        <img src="https://janwarimj2018-cmd.github.io/hewan/IMG-20260805-WA0024(1).jpg" alt="Janwar Febriyanto" class="w-full h-full object-cover">
+                        <img src="https://janwarimj2018-cmd.github.io/hewan/IMG-20260805-WA0024.jpg" alt="Janwar Febriyanto" class="w-full h-full object-cover">
                     </div>
                     <h3 class="font-cinzel text-2xl font-bold text-neutral-900">Janwar Febriyanto</h3>
                     <p class="text-sm text-neutral-600">Putra dari Bapak Suwari & Ibu Ponitri</p>
@@ -89,7 +89,7 @@
                 <!-- Wanita -->
                 <div class="space-y-4 flex flex-col items-center">
                     <div class="w-64 h-80 rounded-2xl overflow-hidden shadow-xl border-4 border-gold">
-                        <img src="https://janwarimj2018-cmd.github.io/hewan/IMG-20260805-WA0025(1).jpg" alt="Suci Rahmawati" class="w-full h-full object-cover">
+                        <img src="https://janwarimj2018-cmd.github.io/hewan/IMG-20260805-WA0025.jpg" alt="Suci Rahmawati" class="w-full h-full object-cover">
                     </div>
                     <h3 class="font-cinzel text-2xl font-bold text-neutral-900">Suci Rahmawati</h3>
                     <p class="text-sm text-neutral-600">Putri dari Bapak Heri Nursio & Ibu Dewi Musyarofah</p>
